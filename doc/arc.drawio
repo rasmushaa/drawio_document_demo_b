@@ -4,11 +4,11 @@
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="4" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#FFFFCC;" vertex="1" parent="1">
+                <mxCell id="4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
                     <mxGeometry x="260" y="90" width="360" height="240" as="geometry"/>
                 </mxCell>
                 <UserObject label="Output" link="https://viewer.diagrams.net/?url=https://raw.githubusercontent.com/rasmushaa/drawio_document_demo_c/refs/heads/main/doc/arc.drawio" linkTarget="_blank" id="5">
-                    <mxCell style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#f5f5f5;whiteSpace=wrap;fontColor=#333333;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxCell style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#f5f5f5;whiteSpace=wrap;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
                         <mxGeometry x="660" y="140" width="160" height="40" as="geometry"/>
                     </mxCell>
                 </UserObject>
@@ -16,7 +16,7 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <UserObject label="Input" link="https://viewer.diagrams.net/?url=https://raw.githubusercontent.com/rasmushaa/drawio_document_demo_a/refs/heads/main/doc/arc.drawio" linkTarget="_blank" id="6">
-                    <mxCell style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#f5f5f5;flipH=0;spacingRight=0;spacingLeft=14;whiteSpace=wrap;fontColor=#333333;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxCell style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#f5f5f5;flipH=0;spacingRight=0;spacingLeft=14;whiteSpace=wrap;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
                         <mxGeometry x="30" y="140" width="170" height="40" as="geometry"/>
                     </mxCell>
                 </UserObject>
@@ -44,7 +44,7 @@
                     <mxGeometry x="290" y="120" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <UserObject label="Transformation" link="data:page/id,HHBtNqtxI7CAWG6mxgsk" id="8">
-                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
                         <mxGeometry x="380" y="240" width="120" height="60" as="geometry"/>
                     </mxCell>
                 </UserObject>
@@ -85,7 +85,7 @@
                     <mxGeometry x="354" y="255" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <UserObject label="Output Data" link="data:page/id,0TPpCkm8sBSzQFELrmMV" id="5WzBlUKnQxFlKBhWq4Ys-1">
-                    <mxCell style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#f5f5f5;whiteSpace=wrap;fontColor=#333333;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxCell style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#f5f5f5;whiteSpace=wrap;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
                         <mxGeometry x="570" y="265" width="160" height="40" as="geometry"/>
                     </mxCell>
                 </UserObject>
@@ -93,7 +93,7 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <UserObject label="Input Data" link="data:page/id,0TPpCkm8sBSzQFELrmMV" id="5WzBlUKnQxFlKBhWq4Ys-2">
-                    <mxCell style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#f5f5f5;flipH=0;spacingRight=0;spacingLeft=14;whiteSpace=wrap;fontColor=#333333;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxCell style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#f5f5f5;flipH=0;spacingRight=0;spacingLeft=14;whiteSpace=wrap;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
                         <mxGeometry x="-40" y="265" width="170" height="40" as="geometry"/>
                     </mxCell>
                 </UserObject>
