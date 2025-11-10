@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="0TPpCkm8sBSzQFELrmMV" name="main">
-        <mxGraphModel dx="945" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="803" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -41,9 +41,11 @@
                 <mxCell id="7" value="Is valid&lt;div&gt;input&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
                     <mxGeometry x="290" y="120" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="Transformation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="380" y="240" width="120" height="60" as="geometry"/>
-                </mxCell>
+                <UserObject label="Transformation" link="data:page/id,HHBtNqtxI7CAWG6mxgsk" id="8">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                        <mxGeometry x="380" y="240" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
                 <mxCell id="12" style="edgeStyle=none;html=1;entryX=0;entryY=0;entryDx=0;entryDy=20;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8" target="5">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
@@ -52,6 +54,11 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
+                <UserObject label="" link="https://github.com/rasmushaa/drawio_document_demo_b" linkTarget="_blank" id="9TpXp5daS7bJ6XRqMDmc-14">
+                    <mxCell style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github" vertex="1" parent="1">
+                        <mxGeometry x="273" y="274" width="45.5" height="46" as="geometry"/>
+                    </mxCell>
+                </UserObject>
             </root>
         </mxGraphModel>
     </diagram>
