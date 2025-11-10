@@ -7,14 +7,16 @@
                 <mxCell id="4" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#FFFFCC;" vertex="1" parent="1">
                     <mxGeometry x="260" y="90" width="360" height="240" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="Output" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#f5f5f5;whiteSpace=wrap;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-                    <mxGeometry x="660" y="140" width="160" height="40" as="geometry"/>
-                </mxCell>
+                <UserObject label="Output" link="https://viewer.diagrams.net/?url=https://raw.githubusercontent.com/rasmushaa/drawio_document_demo_c/refs/heads/main/doc/arc.drawio" linkTarget="_blank" id="5">
+                    <mxCell style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#f5f5f5;whiteSpace=wrap;fontColor=#333333;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                        <mxGeometry x="660" y="140" width="160" height="40" as="geometry"/>
+                    </mxCell>
+                </UserObject>
                 <mxCell id="9" style="edgeStyle=none;html=1;" edge="1" parent="1" source="6" target="7">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <UserObject label="Input" link="https://viewer.diagrams.net/?url=https://raw.githubusercontent.com/rasmushaa/drawio_document_demo_a/refs/heads/main/doc/arc.drawio" linkTarget="_blank" id="6">
-                    <mxCell style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#f5f5f5;flipH=0;spacingRight=0;spacingLeft=14;whiteSpace=wrap;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxCell style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#f5f5f5;flipH=0;spacingRight=0;spacingLeft=14;whiteSpace=wrap;fontColor=#333333;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
                         <mxGeometry x="30" y="140" width="170" height="40" as="geometry"/>
                     </mxCell>
                 </UserObject>
@@ -42,7 +44,7 @@
                     <mxGeometry x="290" y="120" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <UserObject label="Transformation" link="data:page/id,HHBtNqtxI7CAWG6mxgsk" id="8">
-                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
                         <mxGeometry x="380" y="240" width="120" height="60" as="geometry"/>
                     </mxCell>
                 </UserObject>
@@ -68,7 +70,7 @@
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="RufTVGlUoA_d3sKMMKmb-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="160" y="200" width="390" height="170" as="geometry"/>
+                    <mxGeometry x="175" y="220" width="350" height="130" as="geometry"/>
                 </mxCell>
                 <mxCell id="5WzBlUKnQxFlKBhWq4Ys-4" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RufTVGlUoA_d3sKMMKmb-2" target="RufTVGlUoA_d3sKMMKmb-3">
                     <mxGeometry relative="1" as="geometry"/>
@@ -82,21 +84,21 @@
                 <mxCell id="RufTVGlUoA_d3sKMMKmb-3" value="Max pooling" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
                     <mxGeometry x="354" y="255" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <UserObject label="SendObjectAction1" link="data:page/id,0TPpCkm8sBSzQFELrmMV" id="5WzBlUKnQxFlKBhWq4Ys-1">
-                    <mxCell style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#f5f5f5;whiteSpace=wrap;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-                        <mxGeometry x="630" y="265" width="160" height="40" as="geometry"/>
+                <UserObject label="Output Data" link="data:page/id,0TPpCkm8sBSzQFELrmMV" id="5WzBlUKnQxFlKBhWq4Ys-1">
+                    <mxCell style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#f5f5f5;whiteSpace=wrap;fontColor=#333333;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                        <mxGeometry x="570" y="265" width="160" height="40" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <mxCell id="5WzBlUKnQxFlKBhWq4Ys-3" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5WzBlUKnQxFlKBhWq4Ys-2" target="RufTVGlUoA_d3sKMMKmb-2">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <UserObject label="AcceptEventAction1" link="data:page/id,0TPpCkm8sBSzQFELrmMV" id="5WzBlUKnQxFlKBhWq4Ys-2">
-                    <mxCell style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#f5f5f5;flipH=0;spacingRight=0;spacingLeft=14;whiteSpace=wrap;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-                        <mxGeometry x="-80" y="265" width="170" height="40" as="geometry"/>
+                <UserObject label="Input Data" link="data:page/id,0TPpCkm8sBSzQFELrmMV" id="5WzBlUKnQxFlKBhWq4Ys-2">
+                    <mxCell style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#f5f5f5;flipH=0;spacingRight=0;spacingLeft=14;whiteSpace=wrap;fontColor=#333333;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                        <mxGeometry x="-40" y="265" width="170" height="40" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <mxCell id="5WzBlUKnQxFlKBhWq4Ys-6" value="Transformation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="300" y="210" width="100" height="30" as="geometry"/>
+                    <mxGeometry x="300" y="220" width="100" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
